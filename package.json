@@ -1,0 +1,16 @@
+{
+  "name": "folder-utils",
+  "version": "2.0.2",
+  "description": "export and require helper functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelnsantos/folder-utils.git"
+  },
+  "author": "Rafael Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelnsantos/folder-utils/issues"
+  },
+  "homepage": "https://github.com/rafaelnsantos/folder-utils#readme"
+}
